@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"pl.polsl.michal.urbanek.hotelmanagementsystem.controller"},{"l":"pl.polsl.michal.urbanek.hotelmanagementsystem.model"},{"l":"pl.polsl.michal.urbanek.hotelmanagementsystem.model.exceptions"},{"l":"pl.polsl.michal.urbanek.hotelmanagementsystem.view"}]
